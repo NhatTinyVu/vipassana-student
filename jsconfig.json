@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "paths": {
+      "*": ["./src/*"],
+      "src": ["./src"],
+      "src/*": ["./src/*"],
+      "i18n": ["./src/common/i18n"],
+      "i18n/*": ["./src/common/i18n/*"],
+      "ui": ["./src/component/ui"],
+      "ui/*": ["./src/component/ui/*"],
+      "styles": ["./src/common/styles"],
+      "styles/*": ["./src/common/styles/*"]
+    }
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
