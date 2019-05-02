@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "javascript.suggest.autoImports": true,
+  "editor.formatOnSave": false,
+  "eslint.autoFixOnSave": true,
+  "workbench.colorCustomizations": {
+    "tab.unfocusedActiveBorder": "#fff0"
+  }
+}
