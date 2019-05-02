@@ -3,5 +3,7 @@
   "javascript.suggest.autoImports": true,
   "editor.formatOnSave": false,
   "eslint.autoFixOnSave": true,
-  "workbench.colorCustomizations": {}
+  "workbench.colorCustomizations": {
+    "tab.unfocusedActiveBorder": "#fff0"
+  }
 }

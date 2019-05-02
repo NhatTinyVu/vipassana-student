@@ -9,7 +9,7 @@ Currently, work for MAC OS only
 ### How to remove cache
 Only do this when needed
 
-    watchman watch-del-all && rm -rf node_modules/ && yarn cache clean && yarn install && yarn start -- --reset-cache
+    watchman watch-del-all && rm -rf node_modules/ && yarn cache clean && yarn
 
 
 ### Run the project

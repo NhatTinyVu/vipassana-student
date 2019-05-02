@@ -1,3 +1,3 @@
 export const URLs = {
-  baseURL: 'https://'
-}
+  baseURL: 'https://',
+};
